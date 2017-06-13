@@ -1,6 +1,4 @@
 # ICSosialShare
-
-[![CI Status](http://img.shields.io/travis/fajarbrother/ICSosialShare.svg?style=flat)](https://travis-ci.org/fajarbrother/ICSosialShare)
 [![Version](https://img.shields.io/cocoapods/v/ICSosialShare.svg?style=flat)](http://cocoapods.org/pods/ICSosialShare)
 [![License](https://img.shields.io/cocoapods/l/ICSosialShare.svg?style=flat)](http://cocoapods.org/pods/ICSosialShare)
 [![Platform](https://img.shields.io/cocoapods/p/ICSosialShare.svg?style=flat)](http://cocoapods.org/pods/ICSosialShare)
