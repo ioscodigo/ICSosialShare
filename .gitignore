@@ -47,6 +47,7 @@ playground.xcworkspace
 #
 # Pods/
 
+
 # Carthage
 #
 # Add this line if you want to avoid checking in source code from Carthage dependencies.
@@ -65,3 +66,10 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
+
+ICSosialShare.podspec
+_Pods.xcodeproj
+.travis.yml
+.DS_Store
+Example/Podfile.lock
+Example/Pods

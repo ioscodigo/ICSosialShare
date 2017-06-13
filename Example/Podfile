@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ICSosialShare_Example' do
+  pod 'ICSosialShare', :path => '../'
+
+  target 'ICSosialShare_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
